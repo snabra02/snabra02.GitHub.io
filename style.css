@@ -4,26 +4,47 @@ Til þess að læra að gera eitthvað, prófaðu að leita á google af því s
 "how to change link color." */
 
 body {
-  background-color: #FF0000;
-  color: #FFFFAA;
+  background-color: #FEF9E7;
+  color: #000000;
+
+  box-sizing: border-box;
+}
+
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 33.33%;}
+.col-4 {width: 41.66%;}
+.col-5 {width: 50%;}
+.col-6 {width: 58.33%;}
+.col-7 {width: 66.66%;}
+.col-8 {width: 75%;}
+.col-9 {width: 83.33%;}
+.col-10 {width: 91.66%;}
+.col-11 {width: 100%;}
+
+
+
+
 }
 
 h1 {
-  color: #00FF00;
-  background-color: #888888;
-  font-family: Helvetica, sans-serif;
+  color: #212F3C;
+  background-color: #D8EEEA;
+  font-family: .col-1 {width: 8.33%;}
+  font-family: Georgia, Garamond, Palatino, serif;
   font-style: bold;
 }
 
 h2 {
-  color: #00FFFF;
+  color: #212F3C;
   font-style: oblique;
   text-align: center;
-  border: 3px solid green;
+  border: 3px solid black;
 }
 
 a {
-  color: #AAAAFF;
+  color: #D8EEEA;
 }
 
 a:hover {
@@ -32,5 +53,5 @@ a:hover {
 }
 
 ul {
-  background-color: ##d3ecf5;
+  background-color: #FDFEFE;
 }

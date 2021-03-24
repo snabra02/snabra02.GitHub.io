@@ -11,18 +11,6 @@ body {
 }
 
 
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 33.33%;}
-.col-4 {width: 41.66%;}
-.col-5 {width: 50%;}
-.col-6 {width: 58.33%;}
-.col-7 {width: 66.66%;}
-.col-8 {width: 75%;}
-.col-9 {width: 83.33%;}
-.col-10 {width: 91.66%;}
-.col-11 {width: 100%;}
-
 
 
 
@@ -30,8 +18,7 @@ body {
 
 h1 {
   color: #212F3C;
-  background-color: #D8EEEA;
-  font-family: .col-1 {width: 8.33%;}
+  background-color: #80E8D1;
   font-family: Georgia, Garamond, Palatino, serif;
   font-style: bold;
 }
@@ -44,7 +31,7 @@ h2 {
 }
 
 a {
-  color: #D8EEEA;
+  color: #000000;
 }
 
 a:hover {
@@ -53,5 +40,5 @@ a:hover {
 }
 
 ul {
-  background-color: #FDFEFE;
+  background-color: #80E8D1;
 }
